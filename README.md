@@ -1,2 +1,2 @@
-# webdev
-Website Development Projects
+# Portfolio
+My personal portfolio using HTML, CSS, and Javascript.
